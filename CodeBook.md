@@ -1,6 +1,7 @@
 # Code Book
 ## Overview
-In this project entitled "Getting and Cleaning Data", it is get data from a study of wearable computing, tidy it, and make summaries from cleaned data. See reference below for the study [1].
+In this project entitled "Getting and Cleaning Data", it is required to get data from a study of wearable computing, tidy it, and make summaries from tidy data. See reference below for the study [1].
+
 ## The Original Dataset
 
 The original dataset is downloaded from the following link:
