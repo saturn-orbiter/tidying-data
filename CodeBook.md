@@ -7,6 +7,7 @@ In this project entitled "Getting and Cleaning Data", it is required to get data
 The original dataset is downloaded from the following link:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
+
 Once downloaded, the file is unzipped which produces a folder of data. The original folder is renamed to 'dataset_old' for purposes of the analysis.
 
 ## The Tidy Dataset
@@ -14,6 +15,7 @@ Once downloaded, the file is unzipped which produces a folder of data. The origi
 The tidy dataset is stored in the folder named simply 'dataset'. For the purpose of the analysis, this folder and the folder of original dataset 'dataset_old' should be stored under the same parent folder.
 
 In the folder 'dataset', the following files are stored:
+
 a. activities.txt
 b. subjects.txt
 c. feature_meas.txt.zip (zipped version of feature_meas.txt containing all the feature measurements made per activity per person.
@@ -44,6 +46,7 @@ In the process of producing overall combination, it is discovered that some feat
 
 For the description of the each of these feature variables, refer to the file named 'features_info.txt' in the folder 'dataset'. For the original list of 561 feature variables, refer to the file 'features.txt' in the folder 'dataset'.
 
+## Reference
 
 [1] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
 
