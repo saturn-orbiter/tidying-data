@@ -38,9 +38,9 @@ Again, the 'feature_meas.txt' stores the measuresements of 561 variables per per
 
 This file is the result of combining 'subject_xxx.txt', 'X_xxx.txt', 'y_xxx.txt, where xxx is either train or test to imply mesurements done during the training or testing category. Thus, to produce 'feature_meas.txt', the following are done:
 
-a. the 3 files of training category are combined into one dataset.
-b. the 3 files of testing category are combined into the second dataset.
-c. the two previous datasets are further combined into a third dataset. 
+1. the 3 files of training category are combined into one dataset.
+2. the 3 files of testing category are combined into the second dataset.
+3. the two previous datasets are further combined into a third dataset. 
 
 In the process of producing overall combination, it is discovered that some feature variables are duplicated, and thus, eliminated, reducing the number of feature variables from 561 to 477.
 
