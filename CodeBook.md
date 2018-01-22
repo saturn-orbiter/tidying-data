@@ -16,11 +16,11 @@ The tidy dataset is stored in the folder named simply 'dataset'. For the purpose
 
 In the folder 'dataset', the following files are stored:
 
- a.  activities.txt
- a.  subjects.txt
- a.  feature_meas.txt.zip (zipped version of feature_meas.txt containing all the feature measurements made per activity per person.
- a.  features.txt which list all the names of all the features measured in the study.
- a.  features_info.txt which describes the various features that were measured.
+ 1.  activities.txt
+ 2.  subjects.txt
+ 3.  feature_meas.txt.zip (zipped version of feature_meas.txt containing all the feature measurements made per activity per person.
+ 4.  features.txt which list all the names of all the features measured in the study.
+ 5.  features_info.txt which describes the various features that were measured.
 
 ### Activities
 The activity data are stored in the 'activities.txt'. There are two variables: id, and the activity (name). 
